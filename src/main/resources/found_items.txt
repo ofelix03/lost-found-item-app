@@ -1,0 +1,9 @@
+56001b63-ac98-405b-ab0f-a10513cc2410,iPhone,Some description goes here,North Kaneshie,2022-05-10,Felix Otoo,8132712,ofelix03@gmail.com,0542180582
+d6624c3f-3738-4e34-8fa5-0867e3115234,iPhone 6,Some description goes here and there,North Kaneshie,2022-04-10,Felix Otoo,8132712,ofelix03@gmail.com,0542180582
+d6624c3f-3738-4e34-8fa5-0867e3115234,iPhone 6,Some description goes here and there,North Kaneshie,2022-04-10,Felix Otoo,8132712,ofelix03@gmail.com,0242310913
+66e3d626-969a-4e46-bb27-018dcef67e9f,iPhone 10,some description goes here,North Kaneshie,2022-03-10,Felix Otoo,8132712,ofelix03@gmail.com,0542180582
+d9c527cb-85d5-4118-bfd7-aa0690ffd499,iPhone 13,Some description goes here,North Kaneshie,2022-02-02,Felix Otoo,8132712,ofelix03@gmail.com,0542180582
+0da432bc-fee7-403e-b4df-e12d5dd9341b,Samsung Galaxy A71,Some description goes here,Kaneshie,2022-03-10,Felix Otoo,8132712,ofelix03@gmail.com,0542180582
+3f21e0d9-a04f-4d83-bb61-cecbf7574ba1,Samsung Galaxy A51,Some description goes here,North Kaneshie,2022-02-10,Felix Otoo,8132712,ofelix03@gmail.com,0542180582
+33ed4f84-c31a-4f71-bcb7-855828aee4f6,Samsung Galax A52,Some description goes here,Teshie,2022-02-01,Felix Otoo,8132712,ofelix03@gmail.com,0542180582
+92582fca-8385-4c35-b5a3-8b07e1de9640,HP Laptop,A black and silver HP laptop,Teshie Tsuibleoo,2022-05-26,Solomon Nortey,88888,solomon.nortey@gmail.com,0242310913
